@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583483359079",
+    "project_id": "jai-medicals-plus",
+    "storage_bucket": "jai-medicals-plus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583483359079:android:88eda8d29a566cce5bf9c2",
+        "android_client_info": {
+          "package_name": "com.breezefieldjaimedicalplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4iLvrCvA8ajFiH9XDgQKl1dalDJlHAMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
